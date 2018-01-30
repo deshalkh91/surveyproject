@@ -1,6 +1,6 @@
 ﻿# surveyproject_main_public
 
-![Survey Project Logo](http://download-codeplex.sec.s-msft.com/Download?ProjectName=survey&DownloadId=838352&Build=20983)
+![Survey Project Logo](http://www.surveyproject.org/Portals/1/SpLogo.png)
 
 - Survey™ Project (SP) is a free. open source survey and (data entry) forms webapplication (WAP) for processing & gathering data online. 
 
